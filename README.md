@@ -9,8 +9,14 @@
             <td style="text-align: center">              
                      <img src="https://github.com/maulikdadhaniya/Flutter-FabButton-Style/blob/main/assets/simplefab.jpg" width="200"/>
             </td>
-            <td style="text-align: center">
-                    <img src="diamondfab.jpg" width="200"/>
+            <td style="text-align: center">              
+                     <img src="https://github.com/maulikdadhaniya/Flutter-FabButton-Style/blob/main/assets/daimondfab.jpg" width="200"/>
+            </td>
+            <td style="text-align: center">              
+                     <img src="https://github.com/maulikdadhaniya/Flutter-FabButton-Style/blob/main/assets/expandedfab.jpg" width="200"/>
+            </td>
+            <td style="text-align: center">              
+                     <img src="https://github.com/maulikdadhaniya/Flutter-FabButton-Style/blob/main/assets/customexpandedfab.jpg" width="200"/>
             </td>            
       </tr>
   </table>
