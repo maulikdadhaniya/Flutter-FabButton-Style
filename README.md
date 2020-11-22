@@ -1,5 +1,11 @@
 # FabButton Types Style
 
+- [x] Simple Fab Button Style
+- [x] Extended Fab Button Style
+- [x] Diamond Fab Button Style
+- [x] Animated Fab Button Style
+- [x] Custom Expanded Fab Button Style
+
 <div style="text-align: center">
     <table>
         <tr>
